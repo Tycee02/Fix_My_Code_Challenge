@@ -1,0 +1,1 @@
+Welcome to the Fix My Code Challenge! In this challenge, we are been  presented with a series of code snippets that contain bugs or errors. My task is to identify and fix these issues to make the code work correctly.
